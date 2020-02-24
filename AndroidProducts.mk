@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/carbon_santoni.mk
+    $(LOCAL_DIR)/aosip_santoni.mk

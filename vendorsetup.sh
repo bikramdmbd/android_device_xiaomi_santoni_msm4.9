@@ -1,2 +1,1 @@
-add_lunch_combo carbon_santoni-user
-add_lunch_combo carbon_santoni-userdebug
+add_lunch_combo aosip_santoni-userdebug

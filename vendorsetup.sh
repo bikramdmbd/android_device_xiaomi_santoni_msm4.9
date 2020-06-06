@@ -1,0 +1,2 @@
+add_lunch_combo aosip_santoni-user
+add_lunch_combo aosip_santoni-userdebug
